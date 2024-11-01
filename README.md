@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlnagKunnappilly
-- 👀 I’m interested in learning selenium automation with Javascript...
-- 🌱 currently  automate with selenium java...
+- 👀 I’m test automation enthusiast.. 
+
 
 <!---
 AlnagKunnappilly/AlnagKunnappilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
